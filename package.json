@@ -1,0 +1,19 @@
+{
+  "name": "4ever-s3-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "go-try": "tsc && node ./src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.107.0",
+    "@aws-sdk/middleware-bucket-endpoint": "^3.80.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.41"
+  }
+}

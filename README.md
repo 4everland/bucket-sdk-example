@@ -5,7 +5,7 @@
 clone the repository into you local environment
 
 ```bash
-git clone xxxxx
+git clone https://github.com/4everland/bucket-sdk-example.git
 ```
 
 fill the access key and secret key at file `./src/s3Client.ts`
